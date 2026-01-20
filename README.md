@@ -1,4 +1,6 @@
-## The output which this MultiAgent system generated:
+## Product Market Research Multiagent
+
+### The output which this MultiAgent system generated:
 
 
 Having gathered data on current pricing models for voice-enabled robots and AI technology, I now have insights into the competitive landscape and potential pricing strategies for our Handy Size Robot product. I will proceed to synthesize these findings into structured sections of the business report.
